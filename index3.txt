@@ -1,1 +1,3 @@
 Hi this is to merge the file from master to see conflicts
+HI this is to merge with conflict on slave
+
